@@ -1,4 +1,9 @@
-Basic user registration and login with NodeJS (Express) and MongoDB, using JWT for authentication.
+This project was built with the following technologies:
+
+- Node.js
+- Express.js
+- MongoDB (with Mongoose)
+- JSON Web Tokens (JWT) for authentication
 
 1) Clone the repository to your local machine
 2) Navigate to the backend folder:
