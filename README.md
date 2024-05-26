@@ -3,7 +3,7 @@ Basic user registration and login with NodeJS (Express) and MongoDB, using JWT f
 1) Clone the repository to your local machine
 2) Navigate to the backend folder:
    cd backend
-3) Create a .env file in the root directory of the project with the following content:
+3) Create a .env file in the root directory with the following content:
     PORT=5000
     MONGO_URI=mongodb+srv://username:password@yourcluster.lptwdk7.mongodb.net/?retryWrites=true&w=majority&appName=toDoCluster
     JWT_SECRET=yourjsonwebtoken
